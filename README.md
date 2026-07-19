@@ -8,8 +8,10 @@
 
 # Hypixel API Key
 该脚本的数据源为Hypixel官方提供的公共API，API KEY获取教程详见[Hypixel Public API](https://api.hypixel.net/)。
- 
- 
+
+# Urchin API Key
+一个Hypixel的黑客黑名单查询API，获取教程详见https://discord.gg/urchin
+
 # 日志自动读取
 该脚本可以通过日志自动读取Hypixel服务器内的/who指令以实现自动查询
 - 预设的[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)启动器的读取路径为/storage/emulated/0/Android/data/net.kdt.pojavlaunch.debug/files/latestlog.txt
