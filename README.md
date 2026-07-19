@@ -6,8 +6,8 @@
  
  - **日志自动读取**
  该脚本可以通过日志自动读取Hypixel服务器内的/who指令以实现自动查询
-预设的PojavLauncher启动器的读取路径为/storage/emulated/0/Android/data/net.kdt.pojavlaunch.debug/files/latestlog.txt
-预设的ZalithLauncher启动器的读取路径为/storage/emulated/0/Android/data/com.movtery.zalithlauncher/files/latestlog.txt
+ 预设的PojavLauncher启动器的读取路径为/storage/emulated/0/Android/data/net.kdt.pojavlaunch.debug/files/latestlog.txt
+ 预设的ZalithLauncher启动器的读取路径为/storage/emulated/0/Android/data/com.movtery.zalithlauncher/files/latestlog.txt
 （由于谷歌在Android11+引入了data文件夹加密，所以该路径的读取可能需要用到Shizuku或root权限）
 同时也支持自定义日志路径
 
