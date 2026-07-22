@@ -3,7 +3,7 @@
 
 # 准备工作
 该脚本需要运行在[Termux](https://github.com/termux/termux-app)上，用到的第三方库有requests和pexpect。
-如果您是首次使用Termux，您需要分别输入pip install android-tools, pip install python, pip install requests, pip install pexpect 以完成所有库的安装
+如果您是首次使用Termux，您需要分别输入pkg install android-tools, pkg install python, pip install requests, pip install pexpect 以完成所有库的安装
 
 
 # Hypixel API Key
